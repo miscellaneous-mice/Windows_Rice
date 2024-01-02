@@ -1,7 +1,7 @@
 # Windows_Rice
 Simplistic window theme
 
-![Windows](https://github.com/miscellaneous-mice/Windows_Rice/assets/79500624/8f17fb8c-e73c-4b02-8b6d-a160748ee05d)
+![Windows](https://github.com/miscellaneous-mice/Windows_Rice/assets/79500624/511c0a58-9e74-40a9-845b-a2e3cdddb434)
 
 ## Programs Used
 - Rainmeter
